@@ -8,3 +8,11 @@ Note, this Github repository uses Git LFS to manage large files. If you encounte
 
 Unity version required: 2018.3 or later.
 
+
+
+## Credits
+
+3D toy plane model by "Law" (via Sketchfab), generously licensed under the Creative Commons Attribution license. I made a few modifications to the model's appearance.
+https://sketchfab.com/models/9b4e13700da14d31b9d923c499e18f64
+https://creativecommons.org/licenses/by/4.0/
+
